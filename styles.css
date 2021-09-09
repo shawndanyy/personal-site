@@ -1,0 +1,217 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: Sacramento, cursive;
+  font-size: 4.68rem;
+  font-style: oblique;
+  margin: 0;
+  line-height: 75%;
+}
+
+h2 {
+  font-family: Sacramento, cursive;
+  font-size: 230%;
+}
+
+h3 {
+  font-size: 200%;
+  font-family: serif;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+}
+
+.top-container {
+  background-color: #FDFCE5;
+  padding: 200px 0 475px;
+}
+
+.profile {
+  background-color: #FFDEDE;
+  padding: 9%;
+}
+
+.middle-container {
+  background-color: #FFDEDE;
+}
+
+.Engineer {
+  font-family: Montserrat, sans-serif;
+  font-size: 1.2rem;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20rem;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 65rem;
+  top: 10.07%;
+}
+
+.me {
+  height: 25rem;
+  position: absolute;
+  right: 35rem;
+  top: 20rem;
+}
+
+.second {
+  background-color: #FFDEDE;
+  border-style: dotted none none none;
+  width: 5%;
+  border-top-width: 7px;
+}
+
+.third {
+  background-color: #FFE9D6;
+  border-style: dotted none none none;
+  width: 5%;
+  border-top-width: 7px;
+}
+
+.my-pic {
+  height: 200px;
+}
+
+.chat {
+  width: 75px;
+  position: fixed;
+  right: 2rem;
+  bottom: 1rem;
+}
+
+.skills {
+  padding: 50px;
+  background-color: #FFE9D6;
+  padding-bottom: 90px;
+}
+
+.contact-me {
+  padding: 185px;
+}
+
+.bottom-container {
+  padding: 50px;
+  background-color: black;
+}
+.footer-link {
+
+  color: white;
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+.footer-link1 {
+  margin-top: 10px;
+  color: white;
+  font-size: 10px;
+}
+
+.html-css {
+  line-height: 2;
+  width: 70%
+}
+
+.my-skills {
+  font-size: 50px;
+  line-height: 4;
+  margin: 0;
+}
+
+.bio {
+  width: 45%;
+  margin: auto;
+  line-height: 2;
+}
+
+.css {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  margin-left: 250px;
+}
+
+.skill-sub-heading {
+  margin: auto;
+}
+
+.css-heading {
+margin-bottom: auto;
+  line-height: 2;
+}
+.skill-row{
+text-align: left;
+}
+.skill-row2{
+text-align: left;
+margin: 150px;
+margin-left: 20%
+}
+.java-image{
+  margin-right: 60px;
+  width: 30%;
+  float: right;
+}
+
+.java-content{
+width: 60%;
+line-height: 2;
+}
+.queries{
+  width: 70%;
+  font-weight: lighter;
+  font-style: oblique;
+font-family: Montserrat, sans-serif;
+margin: auto;
+line-height: 2;
+margin-bottom: 20px;
+margin-top: 50px;
+}
+.BUTTON_PDU {
+   background: #99BDE6;
+   background-image: -webkit-linear-gradient(top, #99BDE6, #180047);
+   background-image: -moz-linear-gradient(top, #99BDE6, #180047);
+   background-image: -ms-linear-gradient(top, #99BDE6, #180047);
+   background-image: -o-linear-gradient(top, #99BDE6, #180047);
+   background-image: -webkit-gradient(to bottom, #99BDE6, #180047);
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 12px;
+   font-weight: 500;
+   padding: 9px;
+   -webkit-box-shadow: 16px 12px 33px 0 #000000;
+   -moz-box-shadow: 16px 12px 33px 0 #000000;
+   box-shadow: 16px 12px 33px 0 #000000;
+   text-shadow: 0 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_PDU:hover {
+   border: solid #0006FF 1px;
+   background: #FFFFFF;
+   background-image: -webkit-linear-gradient(top, #FFFFFF, #3D94F6);
+   background-image: -moz-linear-gradient(top, #FFFFFF, #3D94F6);
+   background-image: -ms-linear-gradient(top, #FFFFFF, #3D94F6);
+   background-image: -o-linear-gradient(top, #FFFFFF, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #FFFFFF, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
