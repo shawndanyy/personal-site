@@ -47,20 +47,20 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 20rem;
+  left: 20%;
 }
 
 .top-cloud {
   position: absolute;
-  left: 65rem;
+  left: 70%;
   top: 10.07%;
 }
 
 .me {
   height: 25rem;
   position: absolute;
-  right: 35rem;
-  top: 20rem;
+  right: 36.86%;
+  top: 45%;
 }
 
 .second {
@@ -84,8 +84,8 @@ p {
 .chat {
   width: 75px;
   position: fixed;
-  right: 2rem;
-  bottom: 1rem;
+  right: 1%;
+  bottom: 1%;
 }
 
 .skills {
