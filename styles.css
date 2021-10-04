@@ -42,7 +42,7 @@ p {
 
 .Engineer {
   font-family: Montserrat, sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.2vw;
   margin: auto;
 }
 
@@ -218,13 +218,8 @@ margin-top: 50px;
 }
 
 @media (max-width:1340px) {
-  .me{
-
-  }
-  .top-cloud{
-
-  }
-  .bottom-cloud{
-
+  .css{
+    float: left;
+    margin-left: 0;
   }
 }
