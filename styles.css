@@ -5,7 +5,7 @@ body {
 
 h1 {
   font-family: Sacramento, cursive;
-  font-size: 4.68rem;
+  font-size: 4.68vw;
   font-style: oblique;
   margin: 0;
   line-height: 75%;
@@ -26,6 +26,7 @@ p {
 }
 
 .top-container {
+  position: relative;
   background-color: #FDFCE5;
   padding: 14% 0 30.5%;
 }
@@ -57,7 +58,7 @@ p {
 }
 
 .me {
-  height: 25rem;
+  height: 53%;
   position: absolute;
   right: 36.86%;
   top: 45%;
@@ -84,8 +85,8 @@ p {
 .chat {
   width: 75px;
   position: fixed;
-  right: 1%;
-  bottom: 1%;
+  right: 2rem;
+  bottom: 1rem;
 }
 
 .skills {
@@ -214,4 +215,16 @@ margin-top: 50px;
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
+}
+
+@media (max-width:1340px) {
+  .me{
+
+  }
+  .top-cloud{
+
+  }
+  .bottom-cloud{
+
+  }
 }
