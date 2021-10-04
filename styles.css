@@ -222,7 +222,13 @@ margin-top: 50px;
     float: left;
     margin-left: 0;
   }
+  .skill-row{
+    width:auto;
+  }
   .skill-row2{
     margin: 0;
+  }
+  .skills{
+    padding: 10%;
   }
 }
